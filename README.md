@@ -6,12 +6,12 @@ I'm a high school student from France and a passionate programmer who loves work
 
 ## Technologies
 
-- <code><img src="https://img.icons8.com/color/20/000000/python.png"/></code> Python
-- <code><img src="https://img.icons8.com/color/20/000000/javascript.png"/></code> JavaScript
-- <code><img src="https://img.icons8.com/color/20/000000/rust-programming-language.png"/></code> Rust
-- <code><img src="https://img.icons8.com/color/20/000000/c-sharp-logo-2.png"/></code> C#
-- <code><img src="https://img.icons8.com/color/20/000000/unity.png"/></code> Unity
-- <code><img src="https://img.icons8.com/color/20/000000/git.png"/></code> Git
+- <code><img src="/img/python.png"/></code> Python
+- <code><img src="/img/javascript.png"/></code> JavaScript
+- <code><img src="/img/rust.png"/></code> Rust
+- <code><img src="/img/csharp.png"/></code> C#
+- <code><img src="/img/unity.png"/></code> Unity
+- <code><img src="/img/git.png"/></code> Git
 
 ## Projects
 
