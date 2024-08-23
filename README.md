@@ -6,11 +6,9 @@ I'm a high school student from France and a passionate programmer who loves work
 
 ## Technologies
 
-- <code><img src="/img/python.png"/></code> Python
-- <code><img src="/img/javascript.png"/></code> JavaScript
-- <code><img src="/img/rust.png"/></code> Rust
-- <code><img src="/img/csharp.png"/></code> C#
-- <code><img src="/img/unity.png"/></code> Unity
+- <code><img src="/img/cpp.png"/></code> C
+- <code><img src="/img/c.png"/></code> C++
+- <code><img src="/img/ue.png"/></code> Unreal Engine 4/5
 - <code><img src="/img/git.png"/></code> Git
 
 ## Projects
@@ -24,6 +22,12 @@ Here are a few projects I've worked on recently:
 - 🌍 I'm also the founder of [**LuHe Open Labs**](https://github.com/LuHe-Open-Labs), a non-profit organization dedicated to creating innovative, open-source projects. Our goal is to use technology to make a positive impact on the world and help people solve real-world problems. Our first and ambitious project is :
 
 - 🚀 **ANOMALY:** Is a research project that aim to create realistic simulations of ecosystems. Check out the [repository](https://github.com/LuHe-Open-Labs/Anomaly2D) for more information.
+
+### **🚧 New Project Opportunity: Join Us! 🚧**
+
+I'm currently assembling a team for an ambitious new game development project. If you're experienced in Unreal Engine 5, C++, or have a passion for game design, physics simulations, or modding, I would love to hear from you! This project aims to create a highly realistic simulation game with advanced mechanics and modding capabilities.
+
+Interested in joining the team or learning more? Please reach out to me through the contact options below!
 
 ## Contact Me
 
