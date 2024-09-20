@@ -6,8 +6,8 @@ I'm a high school student from France and a passionate programmer who loves work
 
 ## Technologies
 
-- <code><img src="/img/cpp.png"/></code> C
-- <code><img src="/img/c.png"/></code> C++
+- <code><img src="/img/c.png"/></code> C
+- <code><img src="/img/cpp.png"/></code> C++
 - <code><img src="/img/ue.png"/></code> Unreal Engine 4/5
 - <code><img src="/img/git.png"/></code> Git
 
