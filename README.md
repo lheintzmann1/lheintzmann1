@@ -5,7 +5,7 @@ I'm a first-year Computer Science student in France, passionate about programmin
 
 ## Technologies
 
-### Programming Languages
+### Languages
 <img src="https://skillicons.dev/icons?i=c,cs,py,java,ocaml,bash,powershell,js,html,css,md&theme=light" />
 
 ### Frameworks & Runtimes
