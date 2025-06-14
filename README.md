@@ -1,24 +1,30 @@
-# Hi there, I'm Lucas 👋
+# Hey, I'm Lucas! 👋
 
 ## About Me
-I'm a first-year Computer Science student at university in France, with a passion for programming and technology. I love diving into ambitious projects that challenge me to grow, especially in game development, visualization tools, and software engineering. When I'm not coding, you’ll likely find me gaming, watching movies, or enjoying nature.
+I'm a first-year Computer Science student in France, passionate about programming, hardware engineering, and emerging technologies. My curiosity drives me to explore areas like computer architecture, embedded systems, and low-level programming. I enjoy working on ambitious projects that blend software and hardware, and I’m always eager to learn new things! When I'm not coding, you’ll likely find me gaming.
 
 ## Technologies
 
-<code><img src="/img/c.png"/></code> C  
-<code><img src="/img/cpp.png"/></code> C++  
-<code><img src="/img/ue.png"/></code> Unreal Engine 4/5  
-<code><img src="/img/git.png"/></code> Git
+### Languages
+<img src="https://skillicons.dev/icons?i=py,c,cs,java,html,css,js,bash,ocaml,powershell,md&theme=light" />
+
+### Game Development
+<img src="https://skillicons.dev/icons?i=unity,unreal&theme=light" />
+
+### CAD & 3D Modeling
+<img src="https://skillicons.dev/icons?i=autocad,blender&theme=light" />
+
+### Frameworks & Runtimes
+<img src="https://skillicons.dev/icons?i=dotnet,nodejs&theme=light" />
+
+### Tools & Environments
+<img src="https://skillicons.dev/icons?i=git,linux,nix,windows,vscode,visualstudio&theme=light" />
 
 ## Projects
-
 Here’s what I’m working on now:
-
-- 🏙️ EnVizion: A standalone Unreal Engine 5 tool for architectural visualization and urban planning. Still in early development—stay tuned for updates!
-- 🌍 [R]: The ultimate roleplay sandbox game.
+- **[Apogee](https://github.com/lheintzmann1/Apogee):** A 3D game engine focused on space sim
 
 ## Connect With Me
-
 <code><a href="mailto:lheintzmann1@disroot.org"><img src="https://img.icons8.com/?size=64&id=mRFBD2k4dh0c&format=png"/></a></code>
 <code><a href="https://www.linkedin.com/in/lheintzmann1"><img src="https://img.icons8.com/?size=64&id=xuvGCOXi8Wyg&format=png"/></a></code>
 <code><a href="https://www.youtube.com/@LucasHeintzmann"><img src="https://img.icons8.com/?size=64&id=cs0F7pb81QnM&format=png"/></a></code>
