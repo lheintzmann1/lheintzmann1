@@ -6,19 +6,19 @@ I'm a first-year Computer Science student in France, passionate about programmin
 ## Technologies
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=c,cs,py,java,ocaml,bash,powershell,js,html,css,md&theme=light" />
+<img src="https://skillicons.vercel.app/api/svg?i=c,cs,python,java,ocaml,bash,powershell,javascript,html,css,markdown&theme=light" />
 
 ### Frameworks & Runtimes
-<img src="https://skillicons.dev/icons?i=dotnet,nodejs&theme=light" />
+<img src="https://skillicons.vercel.app/api/svg?i=dotnet,nodejs&theme=light" />
 
 ### Game Development
-<img src="https://skillicons.dev/icons?i=unity,unreal&theme=light" />
+<img src="https://skillicons.vercel.app/api/svg?i=unity,unrealengine&theme=light" />
 
 ### CAD & 3D Modeling
-<img src="https://skillicons.dev/icons?i=blender,autocad&theme=light" />
+<img src="https://skillicons.vercel.app/api/svg?i=blender,autocad&theme=light" />
 
 ### Tools & Environments
-<img src="https://skillicons.dev/icons?i=git,linux,windows,vscode,visualstudio,nix&theme=light" />
+<img src="https://skillicons.vercel.app/api/svg?i=git,linux,windows,vscode,visualstudio,nix&theme=light" />
 
 ## Projects
 Here’s what I’m working on now:
