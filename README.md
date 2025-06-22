@@ -20,6 +20,9 @@ I'm a first-year Computer Science student in France, passionate about programmin
 ### Media & Design
 <img src="https://skillicons.vercel.app/api/svg?i=davinci&theme=light" /> <!-- TODO: Affinity suite -->
 
+### Cloud & Deployment
+<img src="https://skillicons.vercel.app/api/svg?i=vercel&theme=light" />
+
 ### Tools & Environments
 <img src="https://skillicons.vercel.app/api/svg?i=git,linux,windows,vscode,visualstudio,nix&theme=light" />
 
