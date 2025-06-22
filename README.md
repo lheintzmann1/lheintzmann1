@@ -15,7 +15,7 @@ I'm a first-year Computer Science student in France, passionate about programmin
 <img src="https://skillicons.vercel.app/api/svg?i=unity,unrealengine&theme=light" />
 
 ### CAD & 3D Modeling
-<img src="https://skillicons.vercel.app/api/svg?i=blender,autocad&theme=light" />
+<img src="https://skillicons.vercel.app/api/svg?i=blender,autocad,maya,3dsmax&theme=light" />
 
 ### Tools & Environments
 <img src="https://skillicons.vercel.app/api/svg?i=git,linux,windows,vscode,visualstudio,nix&theme=light" />
