@@ -27,7 +27,11 @@ I'm a first-year Computer Science student in France, passionate about programmin
 <img src="https://skillicons.vercel.app/api/svg?i=git,linux,windows,vscode,visualstudio,nix&theme=light" />
 
 ## Projects
+
 Here’s what I’m working on now:
+
+- **[kpm](https://github.com/lheintzmann1/kpm):** A package manager for Kotlin, inspired by npm, designed to simplify Kotlin project management.
+- **[github-licenses-stats](https://github.com/lheintzmann1/github-licenses-stats):** A tool to display your most used licenses as an SVG.
 - **[Apogee](https://github.com/lheintzmann1/Apogee):** A 3D game engine focused on space sim
 
 ## Connect With Me
