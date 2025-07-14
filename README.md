@@ -6,7 +6,7 @@ I'm a first-year Computer Science student in France, passionate about programmin
 ## Technologies
 
 ### Languages
-<img src="https://skillicons.vercel.app/api/svg?i=c,cs,python,java,ocaml,bash,powershell,javascript,html,css,markdown&theme=light" />
+<img src="https://skillicons.vercel.app/api/svg?i=c,cs,python,java,kotlin,ocaml,bash,powershell,javascript,html,css,markdown&theme=light" />
 
 ### Frameworks & Runtimes
 <img src="https://skillicons.vercel.app/api/svg?i=dotnet,nodejs&theme=light" />
