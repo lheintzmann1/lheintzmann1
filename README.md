@@ -5,20 +5,11 @@ I'm a first-year Computer Science student in France, passionate about programmin
 
 ## Technologies
 
-### Primary Languages & Technologies
-<img src="https://skillicons.vercel.app/api/svg?i=rust,cs,python,powershell,bash,markdown&theme=light" />
+### Languages
+<img src="https://skillicons.vercel.app/api/svg?i=c,cs,python,java,kotlin,rust,ocaml,bash,powershell,javascript,html,css,markdown&theme=light" />
 
-### Rust Ecosystem (My Preferred Stack)
-- **Frontend**: Dioxus (Web, Desktop, Mobile)
-  - Tailwind CSS
-  - DaisyUI and other UI components
-- **Backend**: Axum
-
-### Databases
-<img src="https://skillicons.vercel.app/api/svg?i=sqlite,postgres,mongodb,redis,surealdb&theme=light" />
-
-### Other Languages (University Experience)
-<img src="https://skillicons.vercel.app/api/svg?i=c,java,ocaml,kotlin&theme=light" />
+### Frameworks & Runtimes
+<img src="https://skillicons.vercel.app/api/svg?i=dotnet,nodejs&theme=light" />
 
 ### Game Development
 <img src="https://skillicons.vercel.app/api/svg?i=unity,unrealengine&theme=light" />
@@ -29,8 +20,11 @@ I'm a first-year Computer Science student in France, passionate about programmin
 ### Creative Tools
 <img src="https://skillicons.vercel.app/api/svg?i=davinci&theme=light" /> <!-- TODO: Affinity suite -->
 
+### Cloud & Deployment
+<img src="https://skillicons.vercel.app/api/svg?i=vercel&theme=light" />
+
 ### Tools & Environments
-<img src="https://skillicons.vercel.app/api/svg?i=git,linux,windows,vscode,visualstudio,nix&theme=light" />
+<img src="https://skillicons.vercel.app/api/svg?i=git,linux,windows,vscode,visualstudio,idea,nix&theme=light" />
 
 ## Connect With Me
 <code><a href="mailto:lheintzmann1@disroot.org"><img src="https://img.icons8.com/?size=64&id=mRFBD2k4dh0c&format=png"/></a></code>
