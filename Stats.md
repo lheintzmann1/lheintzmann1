@@ -1,8 +1,8 @@
 
 # Stats
 
-![GitHub Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lheintzmann1&theme=ayu_mirage)
-![Repository Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lheintzmann1&theme=ayu_mirage)
-![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lheintzmann1&theme=ayu_mirage)
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lheintzmann1&theme=ayu_mirage)
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lheintzmann1&theme=ayu_mirage&utcOffset=2)
+![GitHub Profile Details](./profile-summary-card-output/ayu_mirage/0-profile-details.svg)
+![Repository Languages](./profile-summary-card-output/ayu_mirage/1-repos-per-language.svg)
+![Most Used Languages](./profile-summary-card-output/ayu_mirage/2-most-commit-language.svg)
+![GitHub Stats](./profile-summary-card-output/ayu_mirage/3-stats.svg)
+![Productive Time](./profile-summary-card-output/ayu_mirage/4-productive-time.svg)
