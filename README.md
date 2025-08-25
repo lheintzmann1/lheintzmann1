@@ -26,6 +26,10 @@ I'm a first-year Computer Science student in France, passionate about programmin
 ### Tools & Environments
 <img src="https://skillicons.vercel.app/api/svg?i=git,linux,windows,vscode,visualstudio,idea,nix&theme=light" />
 
+## Stats
+
+I don't take these stats too seriously, but if you do, you can find more of them [here](/Stats.md).
+
 ## Connect With Me
 <code><a href="mailto:lheintzmann1@disroot.org"><img src="https://img.icons8.com/?size=64&id=mRFBD2k4dh0c&format=png"/></a></code>
 <code><a href="https://www.linkedin.com/in/lheintzmann1"><img src="https://img.icons8.com/?size=64&id=xuvGCOXi8Wyg&format=png"/></a></code>
