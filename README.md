@@ -40,8 +40,8 @@ I'm a first-year Computer Science student in France, passionate about programmin
 </details>
 
 ## Connect With Me
-[![EMail](https://skill-badges.vercel.app/api/s?c=gmail)](mailto:lheintzmann1@disroot.org)
-[![LinkedIn](https://skill-badges.vercel.app/api/s?c=linkedin)](https://www.linkedin.com/in/lheintzmann1)
-[![YouTube](https://skill-badges.vercel.app/api/s?c=youtube)](https://www.youtube.com/@LucasHeintzmann)
-[![FreeCodeCamp](https://skill-badges.vercel.app/api/s?c=freecodecamp)](https://www.freecodecamp.org/lheintzmann1)
-[![Exercism](https://skill-badges.vercel.app/api/s?c=exercism)](https://exercism.org/profiles/lheintzmann1)
+[![EMail](https://skill-badges.vercel.app/api/badge?icon=gmail&name=Gmail)](mailto:lheintzmann1@disroot.org)
+[![LinkedIn](https://skill-badges.vercel.app/api/badge?icon=linkedin&name=LinkedIn)](https://www.linkedin.com/in/lheintzmann1)
+[![YouTube](https://skill-badges.vercel.app/api/badge?icon=youtube&name=YouTube)](https://www.youtube.com/@LucasHeintzmann)
+[![FreeCodeCamp](https://skill-badges.vercel.app/api/badge?icon=freecodecamp&name=FreeCodeCamp)](https://www.freecodecamp.org/lheintzmann1)
+[![Exercism](https://skill-badges.vercel.app/api/badge?icon=exercism&name=Exercism)](https://exercism.org/profiles/lheintzmann1)
