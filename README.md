@@ -28,16 +28,13 @@ I'm a first-year Computer Science student in France, passionate about programmin
 
 ## Stats
 
-<details>
-<summary>While I believe hard work matters more than numbers, here are some GitHub stats for those who enjoy them.</summary>
+While I believe hard work matters more than numbers, here are some GitHub stats for those who enjoy them.
 
 ![GitHub Profile Details](./profile-summary-card-output/ayu_mirage/0-profile-details.svg)
 ![Repository Languages](./profile-summary-card-output/ayu_mirage/1-repos-per-language.svg)
 ![Most Used Languages](./profile-summary-card-output/ayu_mirage/2-most-commit-language.svg)
 ![GitHub Stats](./profile-summary-card-output/ayu_mirage/3-stats.svg)
 ![Productive Time](./profile-summary-card-output/ayu_mirage/4-productive-time.svg)
-
-</details>
 
 ## Connect With Me
 [![EMail](https://skill-badges.vercel.app/api/badge?icon=gmail&name=Gmail)](mailto:lheintzmann1@disroot.org)
