@@ -37,7 +37,7 @@ While I believe hard work matters more than numbers, here are some GitHub stats 
 ![Productive Time](./profile-summary-card-output/ayu_mirage/4-productive-time.svg)
 
 ## Connect With Me
-[![EMail](https://skill-badges.vercel.app/api/badge?icon=gmail&name=Gmail&_t=0)](mailto:lheintzmann1@disroot.org)
+[![EMail](https://skill-badges.vercel.app/api/badge?icon=gmail&name=Email&_t=0)](mailto:lheintzmann1@disroot.org)
 [![LinkedIn](https://skill-badges.vercel.app/api/badge?icon=linkedin&name=LinkedIn&_t=0)](https://www.linkedin.com/in/lheintzmann1)
 [![YouTube](https://skill-badges.vercel.app/api/badge?icon=youtube&name=YouTube&_t=0)](https://www.youtube.com/@LucasHeintzmann)
 [![FreeCodeCamp](https://skill-badges.vercel.app/api/badge?icon=freecodecamp&name=FreeCodeCamp&_t=0)](https://www.freecodecamp.org/lheintzmann1)
