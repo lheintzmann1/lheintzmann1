@@ -18,7 +18,7 @@ I'm a first-year Computer Science student in France, passionate about programmin
 <img src="https://skillicons.vercel.app/api/svg?i=blender,autocad,maya,3dsmax&theme=light" />
 
 ### Creative Tools
-<img src="https://skillicons.vercel.app/api/svg?i=davinci&theme=light" /> <!-- TODO: Affinity suite -->
+<img src="https://skillicons.vercel.app/api/svg?i=davinci,AffinityDesigner,AffinityPhoto,AffinityPublisher&theme=light" />
 
 ### Cloud & Deployment
 <img src="https://skillicons.vercel.app/api/svg?i=vercel&theme=light" />
