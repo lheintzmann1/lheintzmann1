@@ -36,9 +36,10 @@ While I believe hard work matters more than numbers, here are some GitHub stats 
 ![GitHub Stats](./profile-summary-card-output/ayu_mirage/3-stats.svg)
 ![Productive Time](./profile-summary-card-output/ayu_mirage/4-productive-time.svg)
 
-## Connect With Me
+## Links
 [![EMail](https://skill-badges.vercel.app/api/badge?icon=gmail&name=Email&_t=0)](mailto:lheintzmann1@disroot.org)
-[![LinkedIn](https://skill-badges.vercel.app/api/badge?icon=linkedin&name=LinkedIn&_t=0)](https://www.linkedin.com/in/lheintzmann1)
 [![YouTube](https://skill-badges.vercel.app/api/badge?icon=youtube&name=YouTube&_t=0)](https://www.youtube.com/@LucasHeintzmann)
-[![FreeCodeCamp](https://skill-badges.vercel.app/api/badge?icon=freecodecamp&name=FreeCodeCamp&_t=0)](https://www.freecodecamp.org/lheintzmann1)
+[![LinkedIn](https://skill-badges.vercel.app/api/badge?icon=linkedin&name=LinkedIn&_t=0)](https://www.linkedin.com/in/lheintzmann1)
+[![Codeberg](https://skill-badges.vercel.app/api/badge?icon=codeberg&name=Codeberg&_t=0)](https://codeberg.org/lheintzmann1)
 [![Exercism](https://skill-badges.vercel.app/api/badge?icon=exercism&name=Exercism&_t=0)](https://exercism.org/profiles/lheintzmann1)
+[![FreeCodeCamp](https://skill-badges.vercel.app/api/badge?icon=freecodecamp&name=FreeCodeCamp&_t=0)](https://www.freecodecamp.org/lheintzmann1)
