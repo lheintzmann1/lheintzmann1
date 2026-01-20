@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/lheintzmann1/lheintzmann1/main/profile-summary-card-output/apprentice/4-productive-time.svg)
-```
-
-    
