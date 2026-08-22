@@ -6,13 +6,13 @@ I'm a second-year HND student in IT Services (BTS SIO, option SLAM) in France, p
 ## Technologies
 
 ### Languages
-<img src="https://skillicons.vercel.app/api/svg?i=c,cs,python,java,kotlin,rust,ocaml,bash,powershell,javascript,html,css,markdown&theme=light" />
+<img src="https://skillicons.vercel.app/api/svg?i=c,cpp,cs,python,java,kotlin,rust,ocaml,bash,powershell,javascript,typescript,html,css,markdown&theme=light" />
 
 ### Frameworks & Runtimes
-<img src="https://skillicons.vercel.app/api/svg?i=dotnet,nodejs&theme=light" />
+<img src="https://skillicons.vercel.app/api/svg?i=dotnet,nodejs,sqlite&theme=light" />
 
 ### Game Development
-<img src="https://skillicons.vercel.app/api/svg?i=unity,unrealengine&theme=light" />
+<img src="https://skillicons.vercel.app/api/svg?i=unity,unrealengine,godot&theme=light" />
 
 ### CAD & 3D Modeling
 <img src="https://skillicons.vercel.app/api/svg?i=blender,autocad,maya,3dsmax&theme=light" />
@@ -34,6 +34,7 @@ While I believe hard work matters more than numbers, here are some GitHub stats 
 ![Productive Time](./profile-summary-card-output/ayu_mirage/4-productive-time.svg)
 
 ## Links
+[![Portfolio](https://skill-badges.vercel.app/api/badge?icon=homepage&name=Portfolio&_t=0)](https://luhe.dev)
 [![EMail](https://skill-badges.vercel.app/api/badge?icon=gmail&name=Email&_t=0)](mailto:lheintzmann1@disroot.org)
 [![YouTube](https://skill-badges.vercel.app/api/badge?icon=youtube&name=YouTube&_t=0)](https://www.youtube.com/@LucasHeintzmann)
 [![LinkedIn](https://skill-badges.vercel.app/api/badge?icon=linkedin&name=LinkedIn&_t=0)](https://www.linkedin.com/in/lheintzmann1)
