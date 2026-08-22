@@ -1,7 +1,7 @@
 # Hey, I'm Lucas! 👋
 
 ## About Me
-I'm a first-year Computer Science student in France, passionate about programming, hardware engineering, and emerging technologies. My curiosity drives me to explore areas like computer architecture, embedded systems, and low-level programming. I enjoy working on ambitious projects that blend software and hardware, and I'm always eager to learn new things! When I'm not coding, you'll likely find me gaming.
+I'm a second-year HND student in IT Services (BTS SIO, option SLAM) in France, passionate about programming, hardware engineering, and emerging technologies. My curiosity drives me to explore areas like computer architecture, game engines, and low-level programming. I enjoy working on ambitious projects that blend software and hardware, and I'm always eager to learn new things! When I'm not coding, you'll likely find me gaming.
 
 ## Technologies
 
